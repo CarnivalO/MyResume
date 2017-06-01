@@ -5,7 +5,7 @@
 | 性别：男 | 生日：1991年1月 | 毕业时间：2014 |
 | :-: | :-: | :-: |
 | 毕业院校：同济大学浙江学院 | 专业：通信工程 | 工作经验：2年 |
-| 电话：[18519100274](tel:18519100274) | 邮箱：xmwjn15@gmail.com | [GitHub](https://github.com/CarnivalO) [Blog](http://carnivalo.top) |
+| 电话：[18519100274](tel:18519100274) | 邮箱：xmwjn15@gmail.com | [GitHub](https://github.com/CarnivalO) [Blog](http://carnivalo.github.io) |
 
 ## 专业技能
 
@@ -65,7 +65,7 @@
     * 通过 Razor 实现页面复用及前后端的分离，通过 mock.js 模拟接口实现快速开发，使用 AdminLTE 框架负责页面的制作，使用 Bootstrap Table 完成表格数据的展现。
     * 负责调试修改海南省畜牧养殖论坛的 Bug 。
 
-* 2016.10 – 2016.12	[企业安全生产demo](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page8/html/)、[海南种畜信息大数据demo](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page7/html/)   
+* 2016.10 – 2016.12	[企业安全生产demo](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page8/html/)、[海南种畜信息大数据demo](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page7/html/)   
 &nbsp;&nbsp;项目描述：通过Web技术，展现数据在企业生产的应用。  
 &nbsp;&nbsp;项目职责：
     * 通过 gulp 自动化构建项目，使用 ejs 实现模板复用，实现新增位置、点击跳转或弹框等功能。使用 ECharts3 实现各种数据图表，并完成实时获取信息、历史信息展示等功能。
@@ -73,13 +73,13 @@
 &nbsp;&nbsp;在总部学习云桌面的基础架构及使用方法，在安装时与总部技术沟通解决安装时遇到的问题。
 
 &nbsp;&nbsp;工作学习开发的页面
-1.  [基于vue的购物车](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page9/)
-2.  [根据设计图](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page6/)
-3.  [动画特效1](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page5/)
-4. [填写读后感](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page4/)
-5. [登录框1](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page3/)
-6. [登录框2](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page2/)
-7. [中少首页](http://carnivalo.top/2017/03/23/%E9%A1%B5%E9%9D%A2/pages/page1/)
+1.  [基于vue的购物车](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page9/)
+2.  [根据设计图](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page6/)
+3.  [动画特效1](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page5/)
+4. [填写读后感](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page4/)
+5. [登录框1](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page3/)
+6. [登录框2](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page2/)
+7. [中少首页](http://carnivalo.github.io/2017/04/10/%E9%A1%B5%E9%9D%A2/pages/page1/)
 
 
 ## 自我评价
